@@ -7,7 +7,7 @@ iOS FaceID/TouchID Auth and store credentials in KeyChain for FaceID/TouchID Aut
 
 3,Provided readCredentials, get the credentials from Keychain.
 
-4,verifyFaceID, check if the biometry match, if match,get the credentials from keychain.
+4,verifyFaceID, get the credentials from keychain if the biometry match.
 
 5,remember to add Privacy - Face ID Usage Description to info.pilst
 
